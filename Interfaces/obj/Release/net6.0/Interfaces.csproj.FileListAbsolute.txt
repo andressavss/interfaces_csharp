@@ -1,0 +1,15 @@
+D:\andressa_\projects\c#\.net\interfaces\Interfaces\Interfaces\bin\Release\net6.0\Interfaces.exe
+D:\andressa_\projects\c#\.net\interfaces\Interfaces\Interfaces\bin\Release\net6.0\Interfaces.deps.json
+D:\andressa_\projects\c#\.net\interfaces\Interfaces\Interfaces\bin\Release\net6.0\Interfaces.runtimeconfig.json
+D:\andressa_\projects\c#\.net\interfaces\Interfaces\Interfaces\bin\Release\net6.0\Interfaces.dll
+D:\andressa_\projects\c#\.net\interfaces\Interfaces\Interfaces\bin\Release\net6.0\Interfaces.pdb
+D:\andressa_\projects\c#\.net\interfaces\Interfaces\Interfaces\obj\Release\net6.0\Interfaces.csproj.AssemblyReference.cache
+D:\andressa_\projects\c#\.net\interfaces\Interfaces\Interfaces\obj\Release\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\andressa_\projects\c#\.net\interfaces\Interfaces\Interfaces\obj\Release\net6.0\Interfaces.AssemblyInfoInputs.cache
+D:\andressa_\projects\c#\.net\interfaces\Interfaces\Interfaces\obj\Release\net6.0\Interfaces.AssemblyInfo.cs
+D:\andressa_\projects\c#\.net\interfaces\Interfaces\Interfaces\obj\Release\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\andressa_\projects\c#\.net\interfaces\Interfaces\Interfaces\obj\Release\net6.0\Interfaces.dll
+D:\andressa_\projects\c#\.net\interfaces\Interfaces\Interfaces\obj\Release\net6.0\refint\Interfaces.dll
+D:\andressa_\projects\c#\.net\interfaces\Interfaces\Interfaces\obj\Release\net6.0\Interfaces.pdb
+D:\andressa_\projects\c#\.net\interfaces\Interfaces\Interfaces\obj\Release\net6.0\Interfaces.genruntimeconfig.cache
+D:\andressa_\projects\c#\.net\interfaces\Interfaces\Interfaces\obj\Release\net6.0\ref\Interfaces.dll
