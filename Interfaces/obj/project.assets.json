@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\andressa_\\projects\\c#\\.net\\interfaces\\Interfaces\\Interfaces\\Interfaces.csproj",
+      "projectUniqueName": "D:\\andressa_\\projects\\c#\\.net\\interfaces_2\\Interfaces\\Interfaces\\Interfaces.csproj",
       "projectName": "Interfaces",
-      "projectPath": "D:\\andressa_\\projects\\c#\\.net\\interfaces\\Interfaces\\Interfaces\\Interfaces.csproj",
+      "projectPath": "D:\\andressa_\\projects\\c#\\.net\\interfaces_2\\Interfaces\\Interfaces\\Interfaces.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "D:\\andressa_\\projects\\c#\\.net\\interfaces\\Interfaces\\Interfaces\\obj\\",
+      "outputPath": "D:\\andressa_\\projects\\c#\\.net\\interfaces_2\\Interfaces\\Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
